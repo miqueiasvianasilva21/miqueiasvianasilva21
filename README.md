@@ -1,4 +1,4 @@
-## Olá eu sou o Miquéias
+## Olá, eu sou o Miquéias!
 
 - 🔭 Atualmente curso Engenharia de Software
 - 💼 Trabalhei com Flutter
