@@ -1,7 +1,6 @@
 ## Olá, eu sou o Miquéias!
 
 - 🔭 Atualmente curso Engenharia de Software
-- 💼 Trabalhei com Flutter
 - 🌱 Estudando C#
 - 📩 miqueias@icomp.ufam.edu.br
 
