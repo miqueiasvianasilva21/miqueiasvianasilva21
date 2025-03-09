@@ -1,6 +1,6 @@
 ## Olá, eu sou o Miquéias!
 
-- 🔭 Atualmente curso Engenharia de Software
+- 📖 Atualmente curso Engenharia de Software
 - 🌱 Estudando C#
 - 📩 miqueias@icomp.ufam.edu.br
 
